@@ -1,1 +1,7 @@
-Apache Derby Network Server - 10.4.2.0 - (689064) started and ready to accept connections on port 1527 at 2014-11-10 12:35:36.641 GMT 
+Apache Derby Network Server - 10.4.2.0 - (689064) started and ready to accept connections on port 1527 at 2014-12-14 14:52:10.027 GMT 
+----------------------------------------------------------------
+2014-12-14 14:52:31.894 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.4.2.0 - (689064): instance a816c00e-014a-4949-055e-00003fcec69c
+on database directory /Users/csaba/dev_anon/anon-repo-db/anon  
+
+Database Class Loader started - derby.database.classpath=''
